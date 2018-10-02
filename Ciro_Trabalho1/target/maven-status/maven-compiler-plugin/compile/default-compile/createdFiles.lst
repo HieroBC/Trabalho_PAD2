@@ -1,0 +1,10 @@
+beans\ImagemBean.class
+entity\Tag.class
+jpa\util\JPAEntityManager.class
+model\AbstractEntity_.class
+model\AbstractEntity.class
+entity\Imagem.class
+entity\Tag_.class
+beans\UploadBean.class
+entity\Imagem_.class
+model\DAO.class
